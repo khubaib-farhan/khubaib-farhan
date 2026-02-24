@@ -1,8 +1,7 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on a Password Manager App as my FYP
-- 🌱 I’m currently learning Python, Web Developement and a bit of Machine Learning
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🔭 I’m currently working on StudyBuddy - AI Powered Planner & Tutoras my FYP
+- 🌱 I’m currently learning Python, Web Developement and Machine Learning
 - 📫 How to reach me: khubaibfarhan2004@gmail.com
 - ⚡ Fun fact: The first computer "bug" was a real bug — a moth found stuck in a Harvard Mark II computer in 1947, giving rise to the term debugging!
 
